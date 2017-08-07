@@ -1,0 +1,602 @@
+Surname: Florence
+FirstName: Forrest
+Student Address: 1843 Glenview Drive
+Address 2: 
+City: Corpus Christi
+State: TX
+Zip: 78401
+Date of Birth: 10/12/1992
+Date of Completion: 5/14/2012
+GPA: 3.215
+Credit Hours Completed: 127
+*************************************************************
+Surname: Casey
+FirstName: Roberta
+Student Address: 3668 Thunder Road
+Address 2: 
+City: Palo Alto
+State: CA
+Zip: 94306
+Date of Birth: 2/13/1983
+Date of Completion: 5/14/2014
+GPA: 2.978
+Credit Hours Completed: 95
+*************************************************************
+Surname: Koch
+FirstName: Sandra
+Student Address: 2707 Waterview Lane
+Address 2: Apt 302
+City: Las Vegas
+State: NM
+Zip: 87701
+Date of Birth: 6/6/1972
+Date of Completion: 12/14/2015
+GPA: 2.546
+Credit Hours Completed: 69
+*************************************************************
+Surname: Dover
+FirstName: Darrel
+Student Address: 845 Dola Mine Road
+Address 2: 
+City: Wendell
+State: NC
+Zip: 27591
+Date of Birth: 3/31/1968
+Date of Completion: 5/14/2012
+GPA: 3.958
+Credit Hours Completed: 75
+*************************************************************
+Surname: Turner
+FirstName: Doris
+Student Address: 4489 Tully Street
+Address 2: Apt B
+City: Detroit
+State: MI
+Zip: 48219
+Date of Birth: 5/21/1988
+Date of Completion: 5/14/2014
+GPA: 2.127
+Credit Hours Completed: 187
+*************************************************************
+Surname: Hernandez
+FirstName: Juan
+Student Address: 2656 Creekside Lane
+Address 2: 
+City: Goleta
+State: CA
+Zip: 93117
+Date of Birth: 7/21/1979
+Date of Completion: 12/14/2015
+GPA: 1.598
+Credit Hours Completed: 156
+*************************************************************
+Surname: Moon
+FirstName: Sandy
+Student Address: 1125 Joyce Street
+Address 2: 
+City: Mobile
+State: AL
+Zip: 36693
+Date of Birth: 12/28/1977
+Date of Completion: 5/14/2012
+GPA: 3.995
+Credit Hours Completed: 124
+*************************************************************
+Surname: Reid
+FirstName: Andre
+Student Address: 1225 Gnatty Creek Road
+Address 2: 
+City: Westbury
+State: NY
+Zip: 11590
+Date of Birth: 12/19/1986
+Date of Completion: 5/14/2014
+GPA: 2.985
+Credit Hours Completed: 112
+*************************************************************
+Surname: Cracraft
+FirstName: Tara
+Student Address: 3479 Austin Avenue
+Address 2: 
+City: Brunswick
+State: GA
+Zip: 31520
+Date of Birth: 2/4/1973
+Date of Completion: 12/14/2015
+GPA: 3.256
+Credit Hours Completed: 162
+*************************************************************
+Surname: Valadez
+FirstName: Vincent
+Student Address: 1740 Parkview Drive
+Address 2: 
+City: Sugar Land
+State: TX
+Zip: 77478
+Date of Birth: 9/23/1975
+Date of Completion: 5/14/2012
+GPA: 3.127
+Credit Hours Completed: 106
+*************************************************************
+Surname: Howard
+FirstName: William
+Student Address: 816 Wayside Lane
+Address 2: 
+City: Hayward
+State: CA
+Zip: 94545
+Date of Birth: 4/9/1971
+Date of Completion: 5/14/2014
+GPA: 3.568
+Credit Hours Completed: 95
+*************************************************************
+Surname: Mills
+FirstName: Gary
+Student Address: 2888 Rowes Lane
+Address 2: 
+City: Irvington
+State: KY
+Zip: 40146
+Date of Birth: 4/22/1990
+Date of Completion: 12/14/2015
+GPA: 3.759
+Credit Hours Completed: 127
+*************************************************************
+Surname: Lett
+FirstName: Victoria
+Student Address: 4250 Pringle Drive
+Address 2: 
+City: Chicago
+State: IL
+Zip: 60606
+Date of Birth: 8/13/1987
+Date of Completion: 5/14/2012
+GPA: 3.862
+Credit Hours Completed: 95
+*************************************************************
+Surname: Brice
+FirstName: William
+Student Address: 4332 Larry Street
+Address 2: Apt 456
+City: New Berlin
+State: WI
+Zip: 53151
+Date of Birth: 1/11/1974
+Date of Completion: 5/14/2014
+GPA: 3.215
+Credit Hours Completed: 69
+*************************************************************
+Surname: Hutchison
+FirstName: Craig
+Student Address: 3704 Green Street
+cd
+ls
+dress 2: 
+City: Nashville
+State: TN
+Zip: 37211
+Date of Birth: 9/27/1969
+Date of Completion: 12/14/2015
+GPA: 2.978
+Credit Hours Completed: 75
+*************************************************************
+Surname: Taylor
+FirstName: Danielle
+Student Address: 4900 Hudson Street
+Address 2: 
+City: Haledon
+State: NJ
+Zip: 7508
+Date of Birth: 7/17/1983
+Date of Completion: 5/14/2012
+GPA: 2.546
+Credit Hours Completed: 162
+*************************************************************
+Surname: Gingerich
+FirstName: Ermelinda
+Student Address: 3834 Milford Street
+Address 2: Apt F
+City: Sunapee
+State: NH
+Zip: 3782
+Date of Birth: 12/17/1973
+Date of Completion: 5/14/2014
+GPA: 3.958
+Credit Hours Completed: 106
+*************************************************************
+Surname: Moody
+FirstName: Derek
+Student Address: 264 Tetrick Road
+Address 2: 
+City: Bowling Green
+State: FL
+Zip: 33834
+Date of Birth: 10/23/1980
+Date of Completion: 12/14/2015
+GPA: 2.127
+Credit Hours Completed: 95
+*************************************************************
+Surname: Howell
+FirstName: Sonja
+Student Address: 1093 Olen Thomas Drive
+Address 2: P.O. Box 552
+City: Wichita Falls
+State: TX
+Zip: 76301
+Date of Birth: 9/18/1984
+Date of Completion: 5/14/2012
+GPA: 1.598
+Credit Hours Completed: 124
+*************************************************************
+Surname: Miser
+FirstName: Michael
+Student Address: 1532 South Street
+Address 2: 
+City: Midland
+State: TX
+Zip: 79701
+Date of Birth: 10/25/1967
+Date of Completion: 5/14/2014
+GPA: 3.995
+Credit Hours Completed: 75
+*************************************************************
+Surname: Davenport
+FirstName: Robin
+Student Address: 4174 Columbia Mine Road
+Address 2: 
+City: Wheeling
+State: WV
+Zip: 26003
+Date of Birth: 3/9/1971
+Date of Completion: 12/14/2015
+GPA: 2.985
+Credit Hours Completed: 187
+*************************************************************
+Surname: Langley
+FirstName: Joycelyn
+Student Address: 1254 Woodland Drive
+Address 2: 
+City: Omaha
+State: NE
+Zip: 68114
+Date of Birth: 2/8/1979
+Date of Completion: 5/14/2012
+GPA: 3.256
+Credit Hours Completed: 156
+*************************************************************
+Surname: Bryant
+FirstName: Ann
+Student Address: 1334 Progress Way
+Address 2: 
+City: Minneapolis
+State: MN
+Zip: 55401
+Date of Birth: 2/28/1977
+Date of Completion: 5/14/2014
+GPA: 3.127
+Credit Hours Completed: 124
+*************************************************************
+Surname: Barnett
+FirstName: Patrick
+Student Address: 2432 Warner Street
+Address 2: 
+City: Casper
+State: WY
+Zip: 82601
+Date of Birth: 7/28/1977
+Date of Completion: 12/14/2015
+GPA: 3.568
+Credit Hours Completed: 95
+*************************************************************
+Surname: Knepp
+FirstName: Christopher
+Student Address: 1012 Oakmound Road
+Address 2: 
+City: Chicago
+State: IL
+Zip: 60623
+Date of Birth: 2/21/1968
+Date of Completion: 5/14/2012
+GPA: 3.759
+Credit Hours Completed: 127
+*************************************************************
+Surname: Canfield
+FirstName: Reginald
+Student Address: 4212 Coal Street
+Address 2: 
+City: Somerset
+State: PA
+Zip: 15501
+Date of Birth: 3/21/1988
+Date of Completion: 5/14/2014
+GPA: 3.862
+Credit Hours Completed: 95
+*************************************************************
+Surname: Lippert
+FirstName: Margarita
+Student Address: 781 Hillcrest Lane
+Address 2: 
+City: Fullerton
+State: CA
+Zip: 93632
+Date of Birth: 6/8/1978
+Date of Completion: 12/14/2015
+GPA: 1.598
+Credit Hours Completed: 69
+*************************************************************
+Surname: Kist
+FirstName: Barbara
+Student Address: 2103 Mapleview Drive
+Address 2: 
+City: Jackson
+State: TN
+Zip: 38301
+Date of Birth: 11/3/1980
+Date of Completion: 5/14/2012
+GPA: 3.995
+Credit Hours Completed: 75
+*************************************************************
+Surname: Waters
+FirstName: Ladonna
+Student Address: 68 Oak Ridge Drive
+Address 2: 
+City: Mexico
+State: MO
+Zip: 65265
+Date of Birth: 4/4/1969
+Date of Completion: 5/14/2014
+GPA: 2.985
+Credit Hours Completed: 187
+*************************************************************
+Surname: Shepherd
+FirstName: Julio
+Student Address: 2446 Camden Street
+Address 2: 
+City: Reno
+State: NV
+Zip: 89502
+Date of Birth: 6/23/1978
+Date of Completion: 12/14/2015
+GPA: 3.256
+Credit Hours Completed: 156
+*************************************************************
+Surname: Hernandez
+FirstName: Antonio
+Student Address: 3232 Fairmont Avenue
+Address 2: 
+City: Kansas City
+State: MO
+Zip: 64106
+Date of Birth: 3/12/1980
+Date of Completion: 5/14/2012
+GPA: 3.127
+Credit Hours Completed: 124
+*************************************************************
+Surname: Ridge
+FirstName: Sharon
+Student Address: 3964 Stoney Lane
+Address 2: P.O. Box 549
+City: Dallas
+State: TX
+Zip: 75247
+Date of Birth: 1/8/1991
+Date of Completion: 5/14/2014
+GPA: 3.568
+Credit Hours Completed: 112
+*************************************************************
+Surname: Lambert
+FirstName: Michael
+Student Address: 2174 Kyle Street
+Address 2: 
+City: Venango
+State: NE
+Zip: 69168
+Date of Birth: 10/6/1982
+Date of Completion: 12/14/2015
+GPA: 3.759
+Credit Hours Completed: 162
+*************************************************************
+Surname: Tapp
+FirstName: Michael
+Student Address: 4569 Shobe Lane
+Address 2: 
+City: Greeley
+State: CO
+Zip: 80634
+Date of Birth: 3/12/1972
+Date of Completion: 5/14/2012
+GPA: 3.862
+Credit Hours Completed: 106
+*************************************************************
+Surname: Lewis
+FirstName: Peggy
+Student Address: 1601 Hall Valley Drive
+Address 2: 
+City: Wheeling
+State: WV
+Zip: 26003
+Date of Birth: 5/1/1981
+Date of Completion: 5/14/2014
+GPA: 1.598
+Credit Hours Completed: 127
+*************************************************************
+Surname: Smith
+FirstName: Darren
+Student Address: 2836 Briarwood Road
+Address 2: 
+City: Springfield
+State: MO
+Zip: 65804
+Date of Birth: 5/26/1968
+Date of Completion: 12/14/2015
+GPA: 3.995
+Credit Hours Completed: 95
+*************************************************************
+Surname: Adair
+FirstName: Jeffrey
+Student Address: 4478 Hillside Street
+Address 2: 
+City: Phoenix
+State: AZ
+Zip: 85016
+Date of Birth: 7/3/1986
+Date of Completion: 5/14/2012
+GPA: 2.985
+Credit Hours Completed: 69
+*************************************************************
+Surname: Greene
+FirstName: Eric
+Student Address: 569 Pine Garden Lane
+Address 2: 
+City: Norcross
+State: GA
+Zip: 30091
+Date of Birth: 8/10/1972
+Date of Completion: 5/14/2014
+GPA: 3.256
+Credit Hours Completed: 75
+*************************************************************
+Surname: Gilham
+FirstName: Mike
+Student Address: 3543 Ventura Drive
+Address 2: Apt H
+City: Marina
+State: CA
+Zip: 93933
+Date of Birth: 9/27/1980
+Date of Completion: 12/14/2015
+GPA: 2.546
+Credit Hours Completed: 162
+*************************************************************
+Surname: Dorsey
+FirstName: Tammy
+Student Address: 2111 Liberty Avenue
+Address 2: 
+City: Los Angeles
+State: CA
+Zip: 90017
+Date of Birth: 10/19/1969
+Date of Completion: 5/14/2012
+GPA: 3.958
+Credit Hours Completed: 106
+*************************************************************
+Surname: Lewis
+FirstName: Robert
+Student Address: 2253 Brannon Avenue
+Address 2: 
+City: Jacksonville
+State: FL
+Zip: 32216
+Date of Birth: 8/6/1979
+Date of Completion: 5/14/2014
+GPA: 2.127
+Credit Hours Completed: 95
+*************************************************************
+Surname: Petitt
+FirstName: Craig
+Student Address: 2397 My Drive
+Address 2: 
+City: Garden City
+State: NY
+Zip: 11530
+Date of Birth: 6/15/1971
+Date of Completion: 12/14/2015
+GPA: 1.598
+Credit Hours Completed: 124
+*************************************************************
+Surname: Quarles
+FirstName: Helen
+Student Address: 98 Mount Tabor
+Address 2: 
+City: New York
+State: NY
+Zip: 10013
+Date of Birth: 9/5/1980
+Date of Completion: 5/14/2012
+GPA: 3.995
+Credit Hours Completed: 75
+*************************************************************
+Surname: Frey
+FirstName: Catherine
+Student Address: 1504 Shobe Lane
+Address 2: 
+City: Loveland
+State: CO
+Zip: 80537
+Date of Birth: 4/5/1981
+Date of Completion: 5/14/2014
+GPA: 2.985
+Credit Hours Completed: 69
+*************************************************************
+Surname: Ortiz
+FirstName: Sophie
+Student Address: 977 Seltice Way
+Address 2: Apt 56
+City: Boise
+State: ID
+Zip: 83704
+Date of Birth: 8/6/1976
+Date of Completion: 12/14/2015
+GPA: 3.256
+Credit Hours Completed: 75
+*************************************************************
+Surname: McAbee
+FirstName: Michael
+Student Address: 959 Hall Street
+Address 2: 
+City: Las Vegas
+State: NV
+Zip: 89119
+Date of Birth: 3/7/1991
+Date of Completion: 5/14/2012
+GPA: 3.127
+Credit Hours Completed: 187
+*************************************************************
+Surname: Herrera
+FirstName: David
+Student Address: 3084 Hart Country Lane
+Address 2: 
+City: Norcross
+State: GA
+Zip: 30093
+Date of Birth: 6/19/1981
+Date of Completion: 5/14/2014
+GPA: 2.127
+Credit Hours Completed: 156
+*************************************************************
+Surname: Parry
+FirstName: Paul
+Student Address: 3425 Valley Street
+Address 2: 
+City: Vineland
+State: NJ
+Zip: 8360
+Date of Birth: 12/17/1973
+Date of Completion: 12/14/2015
+GPA: 1.598
+Credit Hours Completed: 124
+*************************************************************
+Surname: Carter
+FirstName: Lisa
+Student Address: 1809 Oak Ridge Drive
+Address 2: 
+City: Rolla
+State: MO
+Zip: 65401
+Date of Birth: 2/25/1989
+Date of Completion: 5/14/2012
+GPA: 3.995
+Credit Hours Completed: 112
+*************************************************************
+Surname: Barbee
+FirstName: James
+Student Address: 4756 Mapleview Drive
+Address 2: 
+City: Ripley
+State: TN
+Zip: 38063
+Date of Birth: 12/27/1983
+Date of Completion: 5/14/2014
+GPA: 2.985
+Credit Hours Completed: 162
+*************************************************************
